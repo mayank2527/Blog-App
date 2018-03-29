@@ -1,1 +1,1 @@
-# Blog-App
+A simple Bloggig App using Laravel
